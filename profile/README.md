@@ -26,11 +26,11 @@
 ### 1️⃣ *TEAM*
 | Image                             |  Name   |     Role     |          Implemented Features           |                      GitHub                       |
 |:----------------------------------|:-------:|:------------:|:---------------------------------------:|:-------------------------------------------------:|
-| ![Juhui](../images/juhui.png)     |   박주희   | Team Leader  | 사용자/관리자 기능 총괄, 상품-주문, CI/CD, 관리자 화면 개발  |   [GitHub Profile](https://github.com/eggzuxi)    |
-| ![Minju](../images/minju.png)     |   차민주   |  Full Stack  |      수화물 기능, 지도 API 연동, 데이터베이스 설계       | [GitHub Profile](https://github.com/backgoon0903) |
-| ![Sinyong](../images/sinyong.png) |   박신영   |  Full Stack  |     게시판, 카테고리, 소셜로그인, 상태관리, 웹 퍼블리싱      |   [GitHub Profile](https://github.com/ssinyong)   |
-| ![Sungoh](../images/sungoh.png)   |   진성오   |  Full Stack  |   이미지, 다국어지원, QR코드, 챗봇, 알림 기능, AWS 배포   | [GitHub Profile](https://github.com/jin-sung-oh)  |
-| ![Seola](../images/seola.png)     |   최설아   |  Full Stack  |       UI/UX 디자인, 결제 시스템 연동, 재고 기능       |  [GitHub Profile](https://github.com/Seola-CHOE)  |
+| ![Juhui](images/juhui.png)     |   박주희   | Team Leader  | 사용자/관리자 기능 총괄, 상품-주문, CI/CD, 관리자 화면 개발  |   [GitHub Profile](https://github.com/eggzuxi)    |
+| ![Minju](images/minju.png)     |   차민주   |  Full Stack  |      수화물 기능, 지도 API 연동, 데이터베이스 설계       | [GitHub Profile](https://github.com/backgoon0903) |
+| ![Sinyong](images/sinyong.png) |   박신영   |  Full Stack  |     게시판, 카테고리, 소셜로그인, 상태관리, 웹 퍼블리싱      |   [GitHub Profile](https://github.com/ssinyong)   |
+| ![Sungoh](images/sungoh.png)   |   진성오   |  Full Stack  |   이미지, 다국어지원, QR코드, 챗봇, 알림 기능, AWS 배포   | [GitHub Profile](https://github.com/jin-sung-oh)  |
+| ![Seola](images/seola.png)     |   최설아   |  Full Stack  |       UI/UX 디자인, 결제 시스템 연동, 재고 기능       |  [GitHub Profile](https://github.com/Seola-CHOE)  |
 
 ---
 
@@ -38,47 +38,47 @@
 
 |       **Languages**       ||
 |:---------------------------:|:---------------------------------------:|
-| ![Java](../images/Java.png) | ![Typescript](../images/TypeScript.png) |
+| ![Java](images/Java.png) | ![Typescript](images/TypeScript.png) |
 |            Java             |               Typescript                |
 
 |             **Framework**             |                               |
 |:---------------------------------------:|:-----------------------------:|
-| ![SpringBoot](../images/SpringBoot.png) | ![React](../images/React.png) |
+| ![SpringBoot](images/SpringBoot.png) | ![React](images/React.png) |
 |               SpringBoot                |             React             |
 
 |          **Database**           |
 |:---------------------------------:|
-| ![MariaDB](../images/MariaDB.png) |
+| ![MariaDB](images/MariaDB.png) |
 |              MariaDB              |
 
 |   **Authentication**    |
 |:-------------------------:|
-| ![Jwt](../images/Jwt.png) |
+| ![Jwt](images/Jwt.png) |
 |      Json Web Token       |
 
 |        **Cloud Platform**         |
 |:-----------------------------------:|
-| ![Firebase](../images/Firebase.png) |
+| ![Firebase](images/Firebase.png) |
 |                 FCM                 |
 
 | **APIs & External Services** |                                       |                               |                               |                                               |
 |:------------------------------:|:-------------------------------------:|:-----------------------------:|:-----------------------------:|:---------------------------------------------:|
-|  ![Toss](../images/Toss.png)   | ![Langchain](../images/Langchain.png) | ![Zxing](../images/Zxing.png) | ![Jsoup](../images/Jsoup.png) | ![Google Cloud](../images/Google%20Cloud.png) |
+|  ![Toss](images/Toss.png)   | ![Langchain](images/Langchain.png) | ![Zxing](images/Zxing.png) | ![Jsoup](images/Jsoup.png) | ![Google Cloud](images/Google%20Cloud.png) |
 |         Toss Payments          |              Lang chain               |             Zxing             |             Jsoup             |                  Google Maps                  |
 
 |         **Network**         |                                   |
 |:-----------------------------:|:---------------------------------:|
-| ![Axios](../images/Azios.png) | ![Postman](../images/Postman.png) |
+| ![Axios](images/Azios.png) | ![Postman](images/Postman.png) |
 |             Axios             |              Postman              |
 
 |                   **Deploy**                   |                                 |                           |                               |
 |:-------------------------------------------------:|:-------------------------------:|:-------------------------:|:-----------------------------:|
-| ![Github Actions](../images/GitHub%20Actions.png) | ![Docker](../images/Docker.png) | ![AWS](../images/AWS.png) | ![Nginx](../images/Nginx.png) |
+| ![Github Actions](images/GitHub%20Actions.png) | ![Docker](images/Docker.png) | ![AWS](images/AWS.png) | ![Nginx](images/Nginx.png) |
 |                  Github Actions                   |             Docker              |            AWS            |             Nginx             |
 
 |        **Tools & Collaborations**        |                                 |                               |                             |                                 |                               |
 |:------------------------------------------:|:-------------------------------:|:-----------------------------:|:---------------------------:|:-------------------------------:|:-----------------------------:|
-| ![IntelliJ](../images/IntelliJ%20IDEA.png) | ![Github](../images/GitHub.png) | ![Figma](../images/Figma.png) | ![Jira](../images/Jira.png) | ![Notion](../images/Notion.png) | ![Slack](../images/Slack.png) |
+| ![IntelliJ](images/IntelliJ%20IDEA.png) | ![Github](images/GitHub.png) | ![Figma](images/Figma.png) | ![Jira](images/Jira.png) | ![Notion](images/Notion.png) | ![Slack](images/Slack.png) |
 |                  IntelliJ                  |             Github              |             Figma             |            Jira             |             Notion              |             Slack             |
 
 ---
