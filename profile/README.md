@@ -1,14 +1,14 @@
 ## *TRIPWHIZ* ✈️
 > ### 여행용품 현지 픽업 온라인 편의점  
 > **국내**에서 원하는 상품을 **구매 및 결제**한 뒤, **해외 현지의 편의점**에서 간편하게 **픽업**할 수 있는 서비스  
-> *\# 국내 결제 후 현지 픽업* &nbsp; *\# 수화물 보관 및 이동* &nbsp; *\# 챗봇*
+> \# 국내 결제 후 현지 픽업 &nbsp; \# 수화물 보관 및 이동 &nbsp; \# 챗봇
 
 ### ✅ 프로젝트기간: 24.10.15 ~ 24.12.24 (10주)
 
 <details> 
     <summary>&nbsp;&nbsp;Server Repository</summary>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Admin](https://github.com/Tripwhiz/TripwhizAdminServer)
+🔗 [Admin](https://github.com/Tripwhiz/TripwhizAdminServer)
 &nbsp;&nbsp;🔗 [User](https://github.com/Tripwhiz/TripwhizServer)
 
 </details>
@@ -16,7 +16,7 @@
 <details>
     <summary>&nbsp;&nbsp;Client Repository</summary>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Admin](https://github.com/Tripwhiz/TripwhizAdminClient)
+🔗 [Admin](https://github.com/Tripwhiz/TripwhizAdminClient)
 &nbsp;&nbsp;🔗 [User](https://github.com/Tripwhiz/TripwhizClient)
 
 </details>
@@ -24,52 +24,62 @@
 ---
 
 ### 1️⃣ *TEAM*
-| Image                                     | Name   | Role        | Implemented Features                   | GitHub                                     |
-|:------------------------------------------| :----- | :---------- |:---------------------------------------| :----------------------------------------- |
-| <img src="../images/juhui.png" alt="박주희"/>   | 박주희 | Team Leader | 사용자/관리자 기능 총괄, 상품-주문, CI/CD, 관리자 화면 개발 | [GitHub Profile](https://github.com/eggzuxi)       |
-| <img src="../images/minju.png" alt="차민주"/>   | 차민주 | Full Stack  | 수화물 기능, 지도 API 연동, 데이터베이스 설계           | [GitHub Profile](https://github.com/backgoon0903) |
-| <img src="../images/sinyong.png" alt="박신영"/> | 박신영 | Full Stack  | 게시판, 카테고리, 소셜로그인, 상태관리, 웹 퍼블리싱         | [GitHub Profile](https://github.com/ssinyong)      |
-| <img src="../images/sungoh.png" alt="진성오"/>  | 진성오 | Full Stack  | 이미지, 다국어지원, QR코드, 챗봇, 알림 기능, AWS 배포    | [GitHub Profile](https://github.com/jin-sung-oh)   |
-| <img src="../images/seola.png" alt="최설아"/>   | 최설아 | Full Stack  | UI/UX 디자인, 결제 시스템 연동, 재고 기능            | [GitHub Profile](https://github.com/Seola-CHOE)    |
+| Image                             |  Name   |     Role     |          Implemented Features           |                      GitHub                       |
+|:----------------------------------|:-------:|:------------:|:---------------------------------------:|:-------------------------------------------------:|
+| ![Juhui](../images/juhui.png)     |   박주희   | Team Leader  | 사용자/관리자 기능 총괄, 상품-주문, CI/CD, 관리자 화면 개발  |   [GitHub Profile](https://github.com/eggzuxi)    |
+| ![Minju](../images/minju.png)     |   차민주   |  Full Stack  |      수화물 기능, 지도 API 연동, 데이터베이스 설계       | [GitHub Profile](https://github.com/backgoon0903) |
+| ![Sinyong](../images/sinyong.png) |   박신영   |  Full Stack  |     게시판, 카테고리, 소셜로그인, 상태관리, 웹 퍼블리싱      |   [GitHub Profile](https://github.com/ssinyong)   |
+| ![Sungoh](../images/sungoh.png)   |   진성오   |  Full Stack  |   이미지, 다국어지원, QR코드, 챗봇, 알림 기능, AWS 배포   | [GitHub Profile](https://github.com/jin-sung-oh)  |
+| ![Seola](../images/seola.png)     |   최설아   |  Full Stack  |       UI/UX 디자인, 결제 시스템 연동, 재고 기능       |  [GitHub Profile](https://github.com/Seola-CHOE)  |
 
 ---
 
 ### 2️⃣ *TECH STACK*
-**🍚 Languages**
 
-![Java](../images/Java.png) &nbsp;&nbsp;&nbsp; ![Typescript](../images/TypeScript.png)
+|       **Languages**       ||
+|:---------------------------:|:---------------------------------------:|
+| ![Java](../images/Java.png) | ![Typescript](../images/TypeScript.png) |
+|            Java             |               Typescript                |
 
-**🍡 Framework**
+|             **Framework**             |                               |
+|:---------------------------------------:|:-----------------------------:|
+| ![SpringBoot](../images/SpringBoot.png) | ![React](../images/React.png) |
+|               SpringBoot                |             React             |
 
-![SpringBoot](../images/SpringBoot.png) &nbsp;&nbsp;&nbsp; ![React](../images/React.png)
+|          **Database**           |
+|:---------------------------------:|
+| ![MariaDB](../images/MariaDB.png) |
+|              MariaDB              |
 
-**🍱 Database**
+|   **Authentication**    |
+|:-------------------------:|
+| ![Jwt](../images/Jwt.png) |
+|      Json Web Token       |
 
-![MariaDB](../images/MariaDB.png)
+|        **Cloud Platform**         |
+|:-----------------------------------:|
+| ![Firebase](../images/Firebase.png) |
+|                 FCM                 |
 
-**🥩 Authentication**
+| **APIs & External Services** |                                       |                               |                               |                                               |
+|:------------------------------:|:-------------------------------------:|:-----------------------------:|:-----------------------------:|:---------------------------------------------:|
+|  ![Toss](../images/Toss.png)   | ![Langchain](../images/Langchain.png) | ![Zxing](../images/Zxing.png) | ![Jsoup](../images/Jsoup.png) | ![Google Cloud](../images/Google%20Cloud.png) |
+|         Toss Payments          |              Lang chain               |             Zxing             |             Jsoup             |                  Google Maps                  |
 
-![Jwt](../images/Jwt.png)
+|         **Network**         |                                   |
+|:-----------------------------:|:---------------------------------:|
+| ![Axios](../images/Azios.png) | ![Postman](../images/Postman.png) |
+|             Axios             |              Postman              |
 
-**🥣 Cloud Platform**
+|                   **Deploy**                   |                                 |                           |                               |
+|:-------------------------------------------------:|:-------------------------------:|:-------------------------:|:-----------------------------:|
+| ![Github Actions](../images/GitHub%20Actions.png) | ![Docker](../images/Docker.png) | ![AWS](../images/AWS.png) | ![Nginx](../images/Nginx.png) |
+|                  Github Actions                   |             Docker              |            AWS            |             Nginx             |
 
-![Firebase](../images/Firebase.png)
-
-**🍲 APIs & External Services**
-
-![Toss](../images/Toss.png) &nbsp;&nbsp; ![Kakao](../images/Kakao.png) &nbsp;&nbsp; ![Langchain](../images/Langchain.png) &nbsp;&nbsp; ![Zxing](../images/Zxing.png) &nbsp;&nbsp; ![Jsoup](../images/Jsoup.png) &nbsp;&nbsp; ![Google Cloud](../images/Google%20Cloud.png)
-
-**🥪 Network**
-
-![Axios](../images/Azios.png) &nbsp;&nbsp;&nbsp; ![Postman](../images/Postman.png)
-
-**🍰 Deploy**
-
-![Github Actions](../images/GitHub%20Actions.png) &nbsp;&nbsp; ![Docker](../images/Docker.png) &nbsp;&nbsp; ![AWS](../images/AWS.png) &nbsp;&nbsp; ![Nginx](../images/Nginx.png)
-
-**🥗 Tools & Collaborations**
-
-![IntelliJ](../images/IntelliJ%20IDEA.png) &nbsp;&nbsp; ![Github](../images/GitHub.png) &nbsp;&nbsp; ![Figma](../images/Figma.png) &nbsp;&nbsp; ![Jira](../images/Jira.png) &nbsp;&nbsp; ![Notion](../images/Notion.png) &nbsp;&nbsp; ![Slack](../images/Slack.png)
+|        **Tools & Collaborations**        |                                 |                               |                             |                                 |                               |
+|:------------------------------------------:|:-------------------------------:|:-----------------------------:|:---------------------------:|:-------------------------------:|:-----------------------------:|
+| ![IntelliJ](../images/IntelliJ%20IDEA.png) | ![Github](../images/GitHub.png) | ![Figma](../images/Figma.png) | ![Jira](../images/Jira.png) | ![Notion](../images/Notion.png) | ![Slack](../images/Slack.png) |
+|                  IntelliJ                  |             Github              |             Figma             |            Jira             |             Notion              |             Slack             |
 
 ---
 
