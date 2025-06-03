@@ -100,3 +100,4 @@
 ### 4️⃣ *Documents*
 >[🔗 요구사항분석서](https://docs.google.com/spreadsheets/d/1ftDs0ndnl6fSZX--J9W0pJPFOnCpScSF/edit?usp=sharing&ouid=107081426996564712412&rtpof=true&sd=true)  
 [🔗 시스템아키텍처](https://drive.google.com/file/d/1SyPPtqG4cjZyWcNDGwtHsM9rfOxLB8jr/view?usp=sharing)
+>[🔗 데이터베이스 설계도](https://www.erdcloud.com/d/gawoYMcZzJidyGryq)
