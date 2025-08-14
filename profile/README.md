@@ -55,7 +55,7 @@
 | | | | | |
 
 | **Network** | | | **Deploy** | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![Image](https://github.com/user-attachments/assets/b41de7e1-cdac-44c7-9e69-e0e06549c9e9) | ![Image](https://github.com/user-attachments/assets/43eca899-a185-459c-b736-aa16d6d1d384) | | ![Image](https://github.com/user-attachments/assets/77f9e374-3f91-46f6-ba2f-78ea75814dde) | ![Image](https://github.com/user-attachments/assets/5cf7ebe5-971a-4e66-ab58-1145c79b754d) | ![Image](https://github.com/user-attachments/assets/53a0d8fd-847b-46be-b41b-5e9b7178d656) | ![Image](https://github.com/user-attachments/assets/f07da4fa-98c3-400f-afff-a060f55ac6f1) |
 | Axios | Postman | | Github Actions | Docker | AWS | Nginx |
 | | | | | | | |
