@@ -36,50 +36,67 @@
 
 ### 2️⃣ *TECH STACK*
 
-|       **Languages**       ||
-|:---------------------------:|:---------------------------------------:|
-| ![Image](https://github.com/user-attachments/assets/da4738c8-4f45-4c39-a962-48afdbe97aa6) | ![Image](https://github.com/user-attachments/assets/fe390f70-d0cf-45d7-9624-223cbb2fab3c) |
-|            Java             |               Typescript                |
+| **Languages** | | |
+|:---:|:---:|:---:|
+| ![Image](https://github.com/user-attachments/assets/da4738c8-4f45-4c39-a962-48afdbe97aa6) | ![Image](https://github.com/user-attachments/assets/fe390f70-d0cf-45d7-9624-223cbb2fab3c) | |
+| Java | Typescript | |
+| | | |
 
-|             **Framework**             |                               |
-|:---------------------------------------:|:-----------------------------:|
-| ![Image](https://github.com/user-attachments/assets/5199be08-29ef-46ea-9afd-0a11b8004ab4) | ![Image](https://github.com/user-attachments/assets/e88d8ecc-ded1-4b38-81bb-4ab495a6864d) |
-|               SpringBoot                |             React             |
+| **Framework** | | |
+|:---:|:---:|:---:|
+| ![Image](https://github.com/user-attachments/assets/5199be08-29ef-46ea-9afd-0a11b8004ab4) | ![Image](https://github.com/user-attachments/assets/e88d8ecc-ded1-4b38-81bb-4ab495a6864d) | |
+| SpringBoot | React | |
+| | | |
 
-|          **Database**           |
-|:---------------------------------:|
+| **Database** |
+|:---:|
 | ![Image](https://github.com/user-attachments/assets/b9329292-c8ca-44ff-ad64-051bb298ba44) |
-|              MariaDB              |
+| MariaDB |
+| |
 
-|   **Authentication**    |
-|:-------------------------:|
+---
+
+| **Authentication** |
+|:---:|
 | ![Image](https://github.com/user-attachments/assets/a50ee0aa-08d3-4ade-a1c2-d903499e2133) |
-|      Json Web Token       |
+| Json Web Token |
+| |
 
-|        **Cloud Platform**         |
-|:-----------------------------------:|
+| **Cloud Platform** |
+|:---:|
 | ![Image](https://github.com/user-attachments/assets/8591f452-9f00-4ff4-b8fd-89ee200894bc) |
-|                 FCM                 |
+| FCM |
+| |
 
-| **APIs & External Services** |                                       |                               |                               |                                               |
-|:------------------------------:|:-------------------------------------:|:-----------------------------:|:-----------------------------:|:---------------------------------------------:|
-|  ![Image](https://github.com/user-attachments/assets/3c30ff22-c44d-424c-b91b-b66b57705a47)   | ![Image](https://github.com/user-attachments/assets/a4b45b65-a4aa-4f8e-9789-12edbcf79066) | ![Image](https://github.com/user-attachments/assets/e712ce85-402d-4e18-b1c1-92dcde6afb14) | ![Image](https://github.com/user-attachments/assets/60e563cd-1700-40ad-a7a5-a9835bdac9b2) | ![Image](https://github.com/user-attachments/assets/16cac0a3-2935-4522-88ad-af4889ff1e6e) |
-|         Toss Payments          |              Lang chain               |             Zxing             |             Jsoup             |                  Google Maps                  |
+---
 
-|         **Network**         |                                   |
-|:-----------------------------:|:---------------------------------:|
+| **APIs & External Services** | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Image](https://github.com/user-attachments/assets/3c30ff22-c44d-424c-b91b-b66b57705a47) | ![Image](https://github.com/user-attachments/assets/a4b45b65-a4aa-4f8e-9789-12edbcf79066) | ![Image](https://github.com/user-attachments/assets/e712ce85-402d-4e18-b1c1-92dcde6afb14) | ![Image](https://github.com/user-attachments/assets/60e563cd-1700-40ad-a7a5-a9835bdac9b2) | ![Image](https://github.com/user-attachments/assets/16cac0a3-2935-4522-88ad-af4889ff1e6e) |
+| Toss Payments | Lang chain | Zxing | Jsoup | Google Maps |
+| | | | | |
+
+---
+
+| **Network** | |
+|:---:|:---:|
 | ![Image](https://github.com/user-attachments/assets/b41de7e1-cdac-44c7-9e69-e0e06549c9e9) | ![Image](https://github.com/user-attachments/assets/43eca899-a185-459c-b736-aa16d6d1d384) |
-|             Axios             |              Postman              |
+| Axios | Postman |
+| | |
 
-|                   **Deploy**                   |                                 |                           |                               |
-|:-------------------------------------------------:|:-------------------------------:|:-------------------------:|:-----------------------------:|
+| **Deploy** | | | |
+|:---:|:---:|:---:|:---:|
 | ![Image](https://github.com/user-attachments/assets/77f9e374-3f91-46f6-ba2f-78ea75814dde) | ![Image](https://github.com/user-attachments/assets/5cf7ebe5-971a-4e66-ab58-1145c79b754d) | ![Image](https://github.com/user-attachments/assets/53a0d8fd-847b-46be-b41b-5e9b7178d656) | ![Image](https://github.com/user-attachments/assets/f07da4fa-98c3-400f-afff-a060f55ac6f1) |
-|                  Github Actions                   |             Docker              |            AWS            |             Nginx             |
+| Github Actions | Docker | AWS | Nginx |
+| | | | |
 
-|        **Tools & Collaborations**        |                                 |                               |                             |                                 |                               |
-|:------------------------------------------:|:-------------------------------:|:-----------------------------:|:---------------------------:|:-------------------------------:|:-----------------------------:|
+---
+
+| **Tools & Collaborations** | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![Image](https://github.com/user-attachments/assets/0986a377-e90d-40ad-8b0b-c46695b19c35) | ![Image](https://github.com/user-attachments/assets/fe44bb2e-7ad9-4a0f-aa9e-3c5bf830c8c8) | ![Image](https://github.com/user-attachments/assets/0ad09795-5f3d-45f7-a3b0-894c8e4a24ff) | ![Image](https://github.com/user-attachments/assets/4db428ed-7118-447a-84da-1c76afbea320) | ![Image](https://github.com/user-attachments/assets/60816974-61b6-4d33-82a9-0c73abbfc1d7) | ![Image](https://github.com/user-attachments/assets/c7413f66-f6c5-46dd-a8c3-80c726dce2e3) |
-|                  IntelliJ                  |             Github              |             Figma             |            Jira             |             Notion              |             Slack             |
+| IntelliJ | Github | Figma | Jira | Notion | Slack |
+| | | | | | |
 
 ---
 
