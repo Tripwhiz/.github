@@ -36,39 +36,17 @@
 
 ### 2️⃣ *TECH STACK*
 
-| **Languages** | | |
-|:---:|:---:|:---:|
-| ![Image](https://github.com/user-attachments/assets/da4738c8-4f45-4c39-a962-48afdbe97aa6) | ![Image](https://github.com/user-attachments/assets/fe390f70-d0cf-45d7-9624-223cbb2fab3c) | |
-| Java | Typescript | |
-| | | |
+| **Languages** | | | **Library & Framework** | | |
+|:---:|:---:|:---:|:---:|:---:|:--:|
+| ![Image](https://github.com/user-attachments/assets/da4738c8-4f45-4c39-a962-48afdbe97aa6) | ![Image](https://github.com/user-attachments/assets/fe390f70-d0cf-45d7-9624-223cbb2fab3c) | | ![Image](https://github.com/user-attachments/assets/5199be08-29ef-46ea-9afd-0a11b8004ab4) | ![Image](https://github.com/user-attachments/assets/e88d8ecc-ded1-4b38-81bb-4ab495a6864d) | |
+| Java | Typescript | | SpringBoot | React | |
+| | | | | | |
 
-| **Framework** | | |
-|:---:|:---:|:---:|
-| ![Image](https://github.com/user-attachments/assets/5199be08-29ef-46ea-9afd-0a11b8004ab4) | ![Image](https://github.com/user-attachments/assets/e88d8ecc-ded1-4b38-81bb-4ab495a6864d) | |
-| SpringBoot | React | |
-| | | |
-
-| **Database** |
-|:---:|
-| ![Image](https://github.com/user-attachments/assets/b9329292-c8ca-44ff-ad64-051bb298ba44) |
-| MariaDB |
-| |
-
----
-
-| **Authentication** |
-|:---:|
-| ![Image](https://github.com/user-attachments/assets/a50ee0aa-08d3-4ade-a1c2-d903499e2133) |
-| Json Web Token |
-| |
-
-| **Cloud Platform** |
-|:---:|
-| ![Image](https://github.com/user-attachments/assets/8591f452-9f00-4ff4-b8fd-89ee200894bc) |
-| FCM |
-| |
-
----
+| **Database** | | **Authentication** | | **Cloud Platform** |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Image](https://github.com/user-attachments/assets/b9329292-c8ca-44ff-ad64-051bb298ba44) | | ![Image](https://github.com/user-attachments/assets/a50ee0aa-08d3-4ade-a1c2-d903499e2133) | | ![Image](https://github.com/user-attachments/assets/8591f452-9f00-4ff4-b8fd-89ee200894bc) |
+| MariaDB | | Json Web Token | | FCM |
+| | | | | |
 
 | **APIs & External Services** | | | | |
 |:---:|:---:|:---:|:---:|:---:|
@@ -76,21 +54,11 @@
 | Toss Payments | Lang chain | Zxing | Jsoup | Google Maps |
 | | | | | |
 
----
-
-| **Network** | |
-|:---:|:---:|
-| ![Image](https://github.com/user-attachments/assets/b41de7e1-cdac-44c7-9e69-e0e06549c9e9) | ![Image](https://github.com/user-attachments/assets/43eca899-a185-459c-b736-aa16d6d1d384) |
-| Axios | Postman |
-| | |
-
-| **Deploy** | | | |
-|:---:|:---:|:---:|:---:|
-| ![Image](https://github.com/user-attachments/assets/77f9e374-3f91-46f6-ba2f-78ea75814dde) | ![Image](https://github.com/user-attachments/assets/5cf7ebe5-971a-4e66-ab58-1145c79b754d) | ![Image](https://github.com/user-attachments/assets/53a0d8fd-847b-46be-b41b-5e9b7178d656) | ![Image](https://github.com/user-attachments/assets/f07da4fa-98c3-400f-afff-a060f55ac6f1) |
-| Github Actions | Docker | AWS | Nginx |
-| | | | |
-
----
+| **Network** | | | **Deploy** | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
+| ![Image](https://github.com/user-attachments/assets/b41de7e1-cdac-44c7-9e69-e0e06549c9e9) | ![Image](https://github.com/user-attachments/assets/43eca899-a185-459c-b736-aa16d6d1d384) | | ![Image](https://github.com/user-attachments/assets/77f9e374-3f91-46f6-ba2f-78ea75814dde) | ![Image](https://github.com/user-attachments/assets/5cf7ebe5-971a-4e66-ab58-1145c79b754d) | ![Image](https://github.com/user-attachments/assets/53a0d8fd-847b-46be-b41b-5e9b7178d656) | ![Image](https://github.com/user-attachments/assets/f07da4fa-98c3-400f-afff-a060f55ac6f1) |
+| Axios | Postman | | Github Actions | Docker | AWS | Nginx |
+| | | | | | | |
 
 | **Tools & Collaborations** | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|
